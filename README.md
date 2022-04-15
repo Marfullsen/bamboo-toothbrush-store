@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marfullsen.github.io/bamboo-toothbrush-store/" rel="noopener">
- <img src="./docs/img/logo_panda.png" alt="app-icon"></a>
+ <img src="./docs/img/panda_logo.png" alt="app-icon"></a>
 </p>
 
 <div align="center">
