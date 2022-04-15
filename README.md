@@ -1,4 +1,23 @@
+<p align="center">
+  <a href="https://marfullsen.github.io/bamboo-toothbrush-store/" rel="noopener">
+ <img src="./docs/img/logo_panda.png" alt="app-icon"></a>
+</p>
+
+<div align="center">
+
 # Bamboo Toothbrush Store
+
+[![gh-pages](https://img.shields.io/badge/Disponible-PRONTO-inactive.svg)](https://marfullsen.github.io/bamboo-toothbrush-store/)
+[![Vue](https://img.shields.io/badge/Vue-3.2.33-blue.svg "Badge Vue.js")](https://v3.vuejs.org/)
+[![Vue-cli](https://img.shields.io/badge/Vue--CLI-5.0.4-brightgreen.svg "Badge VueCLI")](https://cli.vuejs.org/)
+[![Vue-router](https://img.shields.io/badge/Vue--router-4.0.14-yellow.svg "Badge VueRouter")](https://router.vuejs.org/)
+[![bootstrap](https://img.shields.io/badge/bootstrap-css-blueviolet.svg)](https://getbootstrap.com/)
+
+</div>
+
+<p align="center">
+  Fachada de una tienda web ficticia para la venta de cepillos fabricados con madera de bamboo.
+</p>
 
 ## Project setup
 ```
